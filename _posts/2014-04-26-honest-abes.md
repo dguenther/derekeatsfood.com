@@ -20,15 +20,15 @@ Fifteen minutes after ordering, I'm more hungry and less patient.
 
 Finally, after half an hour of waiting, it's burger time!
 
-![Burger time](/images/reviews/honest-abes/burgertime.jpg)
+![Burger time]({{ site.url }}/images/reviews/honest-abes/burgertime.jpg)
 
 Pity all the tables were taken up by customers waiting for food. I walked a block or two over to Bethany Park at 66th and Vine and took a seat to savor my meat sandwich.
 
-![Hammer of Thor](/images/reviews/honest-abes/hammerofthor.jpg)
+![Hammer of Thor]({{ site.url }}/images/reviews/honest-abes/hammerofthor.jpg)
 
 Not a bad looking burger for takeout! Let's have a bite.
 
-![Hammer of Thor 2](/images/reviews/honest-abes/hammerofthor2.jpg)
+![Hammer of Thor 2]({{ site.url }}/images/reviews/honest-abes/hammerofthor2.jpg)
 
 Food
 ----
