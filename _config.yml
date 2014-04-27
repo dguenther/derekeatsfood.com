@@ -1,1 +1,6 @@
+name: Derek Eats Food
+description: Experiences at Lincoln, NE restaurants
+url: http://derekeatsfood.com
 markdown: kramdown
+permalink: none
+pygments: false

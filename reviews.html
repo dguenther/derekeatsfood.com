@@ -1,0 +1,14 @@
+---
+layout: default
+title: Reviews
+subtitle: Places I've eaten
+---
+<h2>{{ page.title }}</h2>
+<p>{{ page.subtitle }}</p>
+<ul class="posts">
+  {% for post in site.categories.reviews %}
+  <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - <small>{{ post.date | date_to_string }}</small>
+  </li>
+  {% endfor %}
+</ul>
