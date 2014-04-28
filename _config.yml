@@ -1,5 +1,7 @@
 name: Derek Eats Food
 description: Experiences at Lincoln, NE restaurants
+gems:
+  - jekyll-sitemap
 url: http://derekeatsfood.com
 markdown: kramdown
 permalink: none
