@@ -51,7 +51,7 @@ Luckily, the egg was cooked perfectly, with a runny yolk. Just the kind of egg y
 
 The beans had pieces of meat in them, just how I like them. They weren't bad, but I had this uncomfortable sensation that they were standard canned beans with some bacon, brown sugar, and about a pound of pepper added. Like I said, not bad, but I can't say I'd recommend them.
 
-Breakfast was all that saved this burger. I hope these are just growing pains for Longwell's, and expect to taste better from them soon. If my normal burger was well done, I'd be reluctant to try the stuffed ones, but I am curious about the BBQ.**Grade: B-**
+Breakfast was all that saved this burger. I hope these are just growing pains for Longwell's, and expect to taste better from them soon. If my normal burger was well done, I'd be reluctant to try the stuffed ones, but I am curious about the BBQ. **Grade: B-**
 
 Experience
 ----------
