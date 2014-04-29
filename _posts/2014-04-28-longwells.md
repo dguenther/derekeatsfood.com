@@ -24,7 +24,7 @@ Not bad at all, reminds me of my favorite Mirror Pond Pale Ale by Deschute's. A 
 
 For the main course, I decided to stick with the burger streak since I'd been to [Honest Abe's]({% post_url 2014-04-26-honest-abes %}) for lunch. My burger of choice was the Duffified (say that 5 times fast). A fried egg, bacon, and pepperjack atop a spice-crusted burger. I hoped "spice-crusted" didn't mean "like a normal burger but dunked in seasoned salt." Also, the menu item was highlighted, which means tasty, I think.
 
-(As a side note, I highly recommend giving fried egg burgers a shot sometime. I've been a fan ever since I tried one at the great J.L. Beers in Sioux Falls, Iowa.)
+(As a side note, I highly recommend giving fried egg burgers a shot sometime. I've been a fan ever since I tried one at the great J.L. Beers in Sioux Falls, South Dakota.)
 
 I picked Southern baked beans as a side. Can't go wrong with some good old fashioned baked beans. I asked the waitress for a sample of the beer mac and cheese, but she must have forgotten, because it never showed up.
 
