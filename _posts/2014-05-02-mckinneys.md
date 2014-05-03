@@ -26,7 +26,7 @@ Both of us ordered fish and chips for our entree. I felt a tiny bit rushed by ou
 
 Food came out pretty darn quick, as I'd expect from a bar. I didn't clock it exactly, but I doubt it was more than 15 minutes.
 
-![Fish and chips]({{ site.url }}/images/reviews/longwells/fishnchips.jpg)
+![Fish and chips]({{ site.url }}/images/reviews/mckinneys/fishnchips.jpg)
 
 Food
 ----
