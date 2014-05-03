@@ -47,9 +47,8 @@ The pub is still clean and new, having only been open a couple months. I hope th
 
 As I mentioned before, our waitress could have been a bit more patient. We were just trying to chill and catch up a bit, you know? I got the feeling that she just didn't want to make us wait, so it wasn't really a strong negative for me.
 
-After meeting the manager, my general impression is that he's really passionate about growing a killer Irish pub in the Haymarket area. And more power to McKinney's. It stands out to me as unique in the Haymarket, and has a great casual atmosphere without feeling cheap. I'm just glad to see something different.
-
-**Grade: B+**
+After meeting the manager, my general impression is that he's really passionate about growing a killer Irish pub in the Haymarket area. And more power to McKinney's. It stands out to me as unique in the Haymarket, and has a great casual atmosphere without feeling cheap. I'm just glad to see something different.  
+**Grade: B+**  
 
 Price
 -----
