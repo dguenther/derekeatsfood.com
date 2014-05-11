@@ -75,6 +75,8 @@ Napkins were tissue-paper thin and only available through the window, utterly in
 
 I didn't bring a drink with me, so I bought a bottle of water for a dollar, which always makes me feel dumb. The staff was really friendly, and was nice enough to bring food out to the picnic bench where we were waiting. Finding someone to chat with definitely helped the wait go faster too. I just felt a bit underwhelmed by the rest of the experience. **Grade: C**
 
+As a caveat, I don't feel like I have a very good read on this place. I think the burger was good, but I don't have a strong desire to go back at the moment. Maybe it's just the shake talking. Take that for what you will.
+
 Price
 -----
 Burgers $7. Sides $3. Drinks $1. Shakes $5.
