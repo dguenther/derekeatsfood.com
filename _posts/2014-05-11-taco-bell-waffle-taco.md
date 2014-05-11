@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     badidea
 title:      Taco Bell Waffle Taco
 date:       2014-05-11 15:20:00
 categories: badideas

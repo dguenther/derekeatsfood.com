@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     badidea
 title:      Taco John's Flamin' Hot Cheetos Burrito
 date:       2014-05-03 17:00:00
 categories: badideas
