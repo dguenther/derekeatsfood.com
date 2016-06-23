@@ -19,7 +19,7 @@ Here goes...
 
 I've made a huge mistake.
 
-Such a combinations of textures and flavors have never before been united on this earth. The red crunch of the cheetos, the slimy cheese, the limp jalapenos, the squishy chorizo, the gummy tortilla... I got chills throughout my body. The contentious Cheetos flavor refused to be subdued by any of its tortilla roommates. You would be better off just ordering a regular burrito, then driving somewhere else and buying some hot Cheetos.
+Such a combination of textures and flavors have never before been united on this earth. The red crunch of the cheetos, the slimy cheese, the limp jalapenos, the squishy chorizo, the gummy tortilla... I got chills throughout my body. The contentious Cheetos flavor refused to be subdued by any of its tortilla roommates. You would be better off just ordering a regular burrito, then driving somewhere else and buying some hot Cheetos.
 
 The whole thing gained 10 pounds once it hit my stomach. Maybe that was just the nacho cheese on the potato Oles. Potato Oles are pretty great, but way greasy, and I have some serious respect for anyone who finishes that whole tub of nacho cheese and lives to tell about it.
 
